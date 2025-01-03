@@ -196,7 +196,5 @@ for item in Poultry.poultry_items:
 
 
 
-
-
           
 
